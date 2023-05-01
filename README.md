@@ -1,2 +1,2 @@
 # Script-Linux-Bash
-sCRIPT PARA sCRIPTEAR
+Bienvenido a mis scripts aqui podras engañar usarlo en broma o algunos scripts pueden ser EN SERIO!
